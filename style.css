@@ -1,0 +1,74 @@
+html, body{
+    height: 100%;
+}
+body{
+    background: url("bg.webp") rgba(0,0,0,0.9);
+    background-size: cover;
+    margin: 0%;
+    height: 100%;
+}
+.sbox{
+    width: 17%;
+    height: 35px;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.sbox:focus{
+    width: 35%;
+}
+
+.urllist{
+    height: 400px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+.urllist li{
+    list-style: none;
+    width: 30%;
+    float: left;
+    margin: 0.3%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    /* background-color: blanchedalmond ; */
+    /* background-size: 50%; */
+}
+.urllist .box{
+    height: 100%;
+    width: 50%;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+}
+.urllist a{
+    color: black;
+    font-size: large;
+    text-decoration: none;
+}
+.addurl{
+    text-align: center;
+}
+.addurl input{
+    height: 30px;
+    width: 200px;
+    outline: none;
+    text-align: center;
+
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s;
+}
+.addurl .in:focus{
+    width: 250px;
+}

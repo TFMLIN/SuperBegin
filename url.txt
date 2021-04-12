@@ -1,0 +1,22 @@
+https://www.baidu.com
+百度
+https://www.google.com
+Google
+https://www.lryblog.com/
+Lry's Blog
+https://www.luogu.com.cn/
+洛谷
+https://www.acwing.com/
+AcWing
+http://8.136.129.165
+阿里服务器
+https://ac.nowcoder.com/acm/home
+牛客oj
+https://w3school.com.cn/
+w3school
+https://github.com
+Github
+http://rebuild.coooolfan.com/
+重建黄中
+https://www.lrynas.cn
+NC云盘
